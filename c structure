@@ -1,5 +1,8 @@
-#include<stdio.>
-main(){
-  printf("Hello to you");
-  return 0;
+#include<stdio.> //preprocessor command, which tells a C compiler to include stdio.h file before going to actual compilation
+
+main(){  //main function where the program execution begins.
+  
+  // this is where the function code will be used
+  
+  return 0;  terminates the main() function and returns the value 0
 }
